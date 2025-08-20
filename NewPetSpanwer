@@ -1,1 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nolaghubdupez/Mujihubeggranodmizer/refs/heads/main/Mujihub"))()
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/cF1fsKzEBGXz1A3S/raw", true))()
